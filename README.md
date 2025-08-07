@@ -2,10 +2,18 @@
 
 ---
 
-### 🕒 Progress Update: 2025-08-07 04:41:07 UTC
+### 🕒 Progress Update: 2025-08-07 04:42:09 UTC
 
 ⚙️ Current Quest: 
-  - Q1 - Github api try
-    -  ~T1 - How many stars does the React repository have~ [[COMPLETED](https://github.com/OSS-Doorway-Dev/MisanatNAU-financing/issues/1)]
-    - T2 - How many open issues are there in the Node.js repository? [[Click here to start](https://github.com/OSS-Doorway-Dev/MisanatNAU-financing/issues/2)]
+  - Q2 - Understanding OSS Projects and GitHub Basics
+    - T1 - Explore the issue tracker [[Click here to start](https://github.com/OSS-Doorway-Dev/MisanatNAU-financing/issues/3)]
+    - T2 - Explore the pull-request menu [Click here to start]
+    - T3 - Explore the fork button [Click here to start]
+    - T4 - Explore the readme file [Click here to start]
+    - T5 - Explore the contributors [Click here to start]
+    - T6 - Quiz [Click here to start]
 
+✅ Completed Quests: 
+  - Q1 - Github api try
+    - ~T1 - How many stars does the React repository have~ [[COMPLETED](https://github.com/OSS-Doorway-Dev/MisanatNAU-financing/issues/1)]
+    - ~T2 - How many open issues are there in the Node.js repository?~ [[COMPLETED](https://github.com/OSS-Doorway-Dev/MisanatNAU-financing/issues/2)]
