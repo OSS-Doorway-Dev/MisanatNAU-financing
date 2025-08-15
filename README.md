@@ -37,14 +37,12 @@ Your current progress will be displayed here as you complete quests.
 
 ---
 
-### 🕒 Progress Update: 2025-08-14 21:42:56 UTC
+### 🕒 Progress Update: 2025-08-15 06:35:24 UTC
 
-### ⚙️ Current Quest
+⚙️ Current Quest
+  - Q1 - Testing the new GitHub api system
+    -  ~T1 - test~ [[COMPLETED](https://github.com/OSS-Doorway-Dev/MisanatNAU-financing/issues/1)]
+    - T2 - List universities in arizona [[Click here to start](https://github.com/OSS-Doorway-Dev/MisanatNAU-financing/issues/2)]
 
-- Q1 - Testing the new GitHub api system
-  - T1 - test
-  - T2 - List universities in arizona
-
-### ✅ Completed Quests
-
-- None yet
+✅ Completed Quests
+  - None yet
