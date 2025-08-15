@@ -37,12 +37,17 @@ Your current progress will be displayed here as you complete quests.
 
 ---
 
-### 🕒 Progress Update: 2025-08-15 06:35:24 UTC
+### 🕒 Progress Update: 2025-08-15 06:35:57 UTC
 
 ⚙️ Current Quest
-  - Q1 - Testing the new GitHub api system
-    -  ~T1 - test~ [[COMPLETED](https://github.com/OSS-Doorway-Dev/MisanatNAU-financing/issues/1)]
-    - T2 - List universities in arizona [[Click here to start](https://github.com/OSS-Doorway-Dev/MisanatNAU-financing/issues/2)]
+  - Q2 - Github api try
+    - T1 - Provide an existing issue number from the repository. [[Click here to start](https://github.com/OSS-Doorway-Dev/MisanatNAU-financing/issues/3)]
+    - T2 - Gte Jabre issu etitle [Click here to start]
+    - T3 - Pick an issue number [Click here to start]
+    - T4 - How many stars does the JabRef repository have [Click here to start]
+    - T5 - list states in the us [Click here to start]
 
 ✅ Completed Quests
-  - None yet
+  - Q1 - Testing the new GitHub api system
+    - ~T1 - test~ [[COMPLETED](https://github.com/OSS-Doorway-Dev/MisanatNAU-financing/issues/1)]
+    - ~T2 - List universities in arizona~ [[COMPLETED](https://github.com/OSS-Doorway-Dev/MisanatNAU-financing/issues/2)]
